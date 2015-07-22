@@ -56,6 +56,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    self.view.backgroundColor = UIColorFromRGB(187,210,198);
+    
     UIButton *setupBtn = [[UIButton alloc] init];
     setupBtn.frame = CGRectMake(50, 100, 44, 44);
     setupBtn.backgroundColor = [UIColor clearColor];
@@ -77,6 +79,7 @@
     UILabel *label2 = [[UILabel alloc] init];
     label2.frame = CGRectMake(50, 200, APP_CONTENT_WIDTH, 44);
     label2.backgroundColor = [UIColor clearColor];
+    label2.textColor = [UIColor grayColor];
     label2.font = [UIFont fontWithName:@"iconfonts" size:30];
     label2.text = [NSString stringWithFormat:@"%@ %@ %@", personFont, githubIconFont, weChatFriendFont];
     _label2 = label2;
@@ -97,7 +100,7 @@
     sender.selected = !sender.selected;
     _label3.hidden = !_label3.hidden;
     if (_label2.textColor == [UIColor grayColor]) {
-        _label2.textColor = [UIColor greenColor];
+        _label2.textColor = [UIColor blackColor];
     }else {
         _label2.textColor = [UIColor grayColor];
     }
