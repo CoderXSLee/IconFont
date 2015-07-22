@@ -23,7 +23,7 @@
 
  
 ### 说多都是废话，看图便知
-![看看淘宝的图标](http://photo.weibo.com/5587483347/photos/detail/photo_id/3867532896394985/album_id/3862680128634563) 
+![看看淘宝的图标](http://ww2.sinaimg.cn/mw690/00668vF9gw1eubx4n8zb4j30ef0pmahq.jpg) 
 * 使用用法超级简单！请看下面！
 ![image](./1224·2.gif)
 
