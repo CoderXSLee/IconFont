@@ -61,7 +61,8 @@
 }
 ```  
 
-* 看图！
+* 看图！  
+
 ![(图4)](http://ww1.sinaimg.cn/mw690/00668vF9gw1eubxmgt5kqj30ho03ljs3.jpg) 
 
 
@@ -78,7 +79,9 @@
  [setupBtn addTarget:self action:@selector(setupBtnClick:) forControlEvents:UIControlEventTouchUpInside];
  [self.view addSubview:_setupBtn];
 ```
-Command + R 大功告成！
+Command + R 大功告成！  
+  
+  
 
 #### 联系方式  <br />
 Q    Q：1363852560 <br />
