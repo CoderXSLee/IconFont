@@ -7,11 +7,17 @@
 ### 说多都是废话，看图便知
 
 ![image](./1224·2.gif)
-* 使用用法超级简单！
+* 使用用法超级简单！请看下面！
 
 * 海量图标，必然会有你所需要的！
 * 点击 -> [图标字体库1](http://www.fontello.com/) 
   或者 [图标字体库2](http://www.iconfont.cn/repositories/) 快快寻找你需要的吧！
+
+* 第1步：打开  [图标字体库1](http://www.fontello.com/) 或者 [图标字体库2](http://www.iconfont.cn/repositories/)
+* 你可以找到自己需要的图标，然后依次加入下载列表，点击右上角的 Download webFont 下载字体。
+* 找到font文件夹中的字体、iOS是支持ttf格式的字体、这里使用ttf格式的。
+* 将其字体导入你的项目中！还是看图吧！
+
 
 #### 联系方式  <br />
 Q    Q：1363852560 <br />
