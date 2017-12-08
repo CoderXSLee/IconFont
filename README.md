@@ -29,9 +29,10 @@
 ![image](./1224·2.gif)  
 
 * 第1步：
-  打开 [图标字体库1](http://www.fontello.com/) 
+  打开 [图标字体库1](http://www.iconfont.cn/collections/index?spm=a313x.7781069.1998910419.5&type=2) 
   或者 
-       [图标字体库2](http://www.iconfont.cn/repositories/)
+       [图标字体库2](http://www.iconfont.cn/repositories/) 
+       [图标字体库3](http://www.fontello.com/)
   海量的图标，会有你所用到的！  
 （如果没有你需要的，你还可以使用自定义的图标、比如你公司的logo等、都是可以的哦~）  
 
