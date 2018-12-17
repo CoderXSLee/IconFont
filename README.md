@@ -44,11 +44,9 @@
   
 * 第2步 将其字体导入你的项目中！还是看图吧！  
 
-![(图1)]
-(http://ww1.sinaimg.cn/mw690/00668vF9jw1eubw1yzphvj30v40b50wr.jpg) 
+![(图1)](http://ww1.sinaimg.cn/mw690/00668vF9jw1eubw1yzphvj30v40b50wr.jpg) 
 * 第3步：在 info.plist 中配置字体 没什么好说的，看图2吧！
-![(图2)]
-(http://ww4.sinaimg.cn/mw690/00668vF9jw1eubw20c171j30pt0ax79g.jpg) 
+![(图2)](http://ww4.sinaimg.cn/mw690/00668vF9jw1eubw20c171j30pt0ax79g.jpg) 
 ![(图3)]
 * 第4步：Create a UIButton Category
   创建一个UIButton 的分类 添加一个设置字体大小的方法
